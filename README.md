@@ -88,7 +88,9 @@ Para a entrega, é necessário produzir um vídeo de até **2 minutos**, contend
 <h2 align="center">📅 Informações</h2>
 
 📌 **Autor(a)**: Alícia Oliveira Araújo
+
 📅 **Data da Aula**: 10/02/2025
+
 🛠️ **Última Modificação**: 18/02/2025  
 
 Projeto desenvolvido para estudos de sistemas embarcados com **Raspberry Pi Pico W** e integração de periféricos.
